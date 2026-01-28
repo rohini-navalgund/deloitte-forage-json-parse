@@ -1,0 +1,15 @@
+{
+  "device": {
+    "id": "device-123",
+    "type": "sensor"
+  },
+  "timestamp": 1615803330000,
+  "location": {
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  "metrics": {
+    "temperature": 26.5,
+    "humidity": 60
+  }
+}
